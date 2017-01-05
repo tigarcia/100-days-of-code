@@ -9,3 +9,6 @@
 **Link to work:** [Emilys Eccentric Encoding](https://www.codewars.com/kata/emilys-eccentric-encoding), [Frame a phrase](https://www.codewars.com/kata/rithm-series-frame-a-phrase-simple)
 
 ### Day 2: January 4th, 2017
+
+**Today's Progress**: I spent today working on a react app that I'll eventually use for a workshop I'm giving in a few months.  
+
