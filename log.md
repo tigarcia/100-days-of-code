@@ -23,3 +23,12 @@
 **Today's Progress**: More react to prepare for the workshop in March.  Still thinking about which component should own state for this demo.
 
 **Thoughts**: Another late start tonight.  I'm looking forward to the weekend to get my coding in early.
+
+### Day 5: January 7th, 2017
+
+
+**Today's Progress**: More react for presentations in March.  Also did some codewar's problems for C.
+
+**Thoughts**: I realize how much I have forgotten about C.  I'm really rusty.  I'm planning to do more so that I don't completely forget how to manage memory.
+
+**Links**: Codewars problems I finished were [String Left Strip](https://www.codewars.com/kata/strings-string-left-strip/c) and [String ends with](https://www.codewars.com/kata/strings-ends-with/c)
