@@ -19,3 +19,7 @@
 **Thoughts:** It was tough to get my hour in tonight. I spent the day at work, then doing a beginner's python class for pyladies and then did some errands when I got home.  I'm happy with the progress that I made though considering I started coding after 11pm.
 
 ### Day 4: January 6th, 2017
+
+**Today's Progress**: More react to prepare for the workshop in March.  Still thinking about which component should own state for this demo.
+
+**Thoughts**: Another late start tonight.  I'm looking forward to the weekend to get my coding in early.
