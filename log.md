@@ -32,3 +32,9 @@
 **Thoughts**: I realize how much I have forgotten about C.  I'm really rusty.  I'm planning to do more so that I don't completely forget how to manage memory.
 
 **Links**: Codewars problems I finished were [String Left Strip](https://www.codewars.com/kata/strings-string-left-strip/c) and [String ends with](https://www.codewars.com/kata/strings-ends-with/c)
+
+### Day 6: January 13, 2017
+
+**Today's Progress**: Did an hour of codewars problems today.
+
+**Thoughts**: It felt good to get back on the wagon.  The trip to Seattle really slowed me down.  I was too tired at the end of the day to do anything that involved thinking.
